@@ -5,49 +5,7 @@
     <head>
         <meta charset="UTF-8"/>
         <title>Contact rich International </title>
-        <?php include_once('includes/headder.php'); ?>
-        <style type="text/css">
-
-            .alert {
-                background-color: #FCF8E3;
-                border: 1px solid #FBEED5;
-                border-radius: 4px 4px 4px 4px;
-                margin-bottom: 20px;
-                padding: 8px 35px 8px 14px;
-                text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-            }
-            .alert, .alert h4 {
-                color: #C09853;
-            }
-
-            .alert-success {
-                background-color: #DFF0D8;
-                border-color: #D6E9C6;
-                color: #468847;
-            }
-
-            .alert-danger, .alert-error {
-                background-color: #F2DEDE;
-                border-color: #EED3D7;
-                color: #B94A48;
-            }
-
-            .alert-danger h4, .alert-error h4 {
-                color: #B94A48;
-                font-weight:  bold;
-            }
-
-            .alert-success h4 {
-                font-weight:  bold;
-                color: #468847;
-            }
-            .alert h4 {
-                margin: 0;
-            }
-            .formError .formErrorContent{
-                min-width: 150px !important; 
-            }
-        </style>
+      
     </head>
     <body class="home page">
 
