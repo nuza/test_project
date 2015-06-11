@@ -28,16 +28,9 @@
 					<img src="images/demo/slider/slider_03.jpg" alt="Green School in London">
 					
 				</div>
-				<div class="item">
-					<img src="images/demo/slider/slider_04.jpg" alt="Relationships That Last" />
-					
-				</div>
+		 
                 
-                <div class="item">
-					<img src="images/demo/slider/slider_05.jpg" alt="Relationships That Last" />
-					
-				</div>
-				
+              
 			</div>
 			<!-- Controls -->
 			<a class="left carousel-control" href="#headerCarousel" role="button" data-slide="prev">
