@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8"/>
-	<title>Rich Success International </title>
+	<title>Rich Success International _test Branch Change </title>
 	<?php include_once('includes/headder.php'); ?>
 </head>
 <body class="home page">
