@@ -4,7 +4,9 @@
 
     <head>
         <meta charset="UTF-8"/>
-        <title>Contact rich International love you </title>
+ 
+        <title>Contact rich International New Contact</title>
+ 
       
     </head>
     <body class="home page">
@@ -22,7 +24,7 @@
             </div>
             <div class="breadcrumbs " style="margin-bottom:0px !important">
                 <div class="container">
-                    <span typeof="v:Breadcrumb"><a title="Go to BuildPress." href="index.php" class="home">rich International</a></span>
+                    <span typeof="v:Breadcrumb"><a title="Go to BuildPress." href="index.php" class="home">rich International </a></span>
                     <span typeof="v:Breadcrumb"><span>Contact Us</span></span>	
                 </div>
             </div>
