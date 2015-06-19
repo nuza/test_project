@@ -55,13 +55,7 @@
 							<a class="page-box__picture" href="#">
 								<img width="360" height="240" src="images/demo/content/content_1.jpg" alt="Content Image"/>
 							</a>
-							<div class="page-box__content">
-								<h5 class="page-box__title  text-uppercase">
-									<a href="#">Laulhere </a>
-								</h5>
-								The Commando merino wool by Laulhère Hats in red is the same hat that is supplied to the French military, Foreign Legion and other armies over the globe. It is made out of 100% merino wool, there is a leather binding as well as two air vents on the side to encourage ventilation. The inside is lined in satin and there is a Commando label sewn onto the inside.
-								
-							</div>
+						 
 							
 						</div>
 					</div>
