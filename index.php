@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<head>
-	<meta charset="UTF-8"/>
-	<title>Rich Success International _test Branch Change </title>
-	<?php include_once('includes/headder.php'); ?>
-</head>
+ 
 <body class="home page">
 
 <div class="boxed-container">
