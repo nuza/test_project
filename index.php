@@ -70,10 +70,7 @@
 								<h5 class="page-box__title text-uppercase">
 									<a href="#"> Hats</a>
 								</h5>
-								There are two unique design elements on this beret: 
-One is the semi-circle insert. This enables the wearer to create a sharp angle on the beret, as well as the spot to display your emblem or pin. 
-two is the binding (edge) envelopes a nylon web band that ends in a bow, this is used to size the beret. 
-This style beret was worn in battle by Viscount Montgomery	
+	 
 								
 							</div>
 						</div>
