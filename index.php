@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en-US">
 
 <head>
 	<meta charset="UTF-8"/>
-	<title>Rich Success International i love you  Branch Change </title>
+	 
 	<?php include_once('includes/headder.php'); ?>
 </head>
 <body class="home page">
